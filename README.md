@@ -10,8 +10,8 @@ This repository contains a hybrid job recommendation engine that uses both user 
 - Recommend top-N similar jobs fora a given job ID
 
 ## Dataset
-- **User Interaction Logs**: Contains anonymized records of user interactions (`click` or `apply`) with job listings.
-- **Job Postings**: Includes job titles and textual descriptions for each listing.
+- **User Events**: User event information including clicks and applications on job listings.
+- **Items**: Item information including titles and descriptions of job listings.
 
 > Note: For confidentiality reasons, only the first 5 rows of each dataset have been retained as examples.
 
