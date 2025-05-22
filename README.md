@@ -57,7 +57,7 @@ To recommend top-N similar jobs for a given job ID.
 ## License
 © 2025 [Nural Ozel](https://github.com/tfb-sv).
 
-- This work is licensed under the [MIT License](./LICENSE).
+This work is licensed under the [MIT License](./LICENSE).
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [mit-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
