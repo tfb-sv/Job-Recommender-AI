@@ -1,0 +1,181 @@
+﻿source_job_id,source_title,target_job_id,target_title,label
+4022460,Software Developer,4021685,C Software Developer,1
+4022460,Software Developer,3176147,Software Developer,1
+4022460,Software Developer,3576275,Yazılım Geliştirme Mühendisi,1
+4022460,Software Developer,3975964,Yazılım Geliştirme Mühendisi,1
+4022460,Software Developer,4025436,Software Developer,1
+4022460,Software Developer,3714956,Yazılım Geliştirme Uzmanı,1
+4022460,Software Developer,4026876,Yazılım Geliştirme Uzmanı,1
+4022460,Software Developer,3930796,Yazılım Geliştirme Uzman Yardımcısı,1
+4022460,Software Developer,3772050,Yazılım Mühendisi,1
+4022460,Software Developer,3363165,Yazılım Geliştirme Uzmanı,1
+4022460,Software Developer,3857446,Temizlik Görevlisi,0
+4022460,Software Developer,4009193,Temizlik Görevlisi,0
+4022460,Software Developer,4032564,Temizlik Görevlisi,0
+4022460,Software Developer,3767982,Temizlik ve Servis Görevlisi,0
+4022460,Software Developer,2771283,Temizlik Görevlisi,0
+4022460,Software Developer,4031235,Temizlik Görevlisi,0
+4022460,Software Developer,3836930,Temizlik Görevlisi,0
+4022460,Software Developer,3963381,Yönetici Asistanı,0
+4022460,Software Developer,4025014,Yönetici Asistanı,0
+4022460,Software Developer,3845963,Temizlik Görevlisi,0
+4022460,Software Developer,4034058,İnşaat Mühendisi,0
+4022460,Software Developer,4030213,İnşaat Mühendisi,0
+4022460,Software Developer,3123924,İnşaat Mühendisi,0
+4022460,Software Developer,4018740,İnşaat Mühendisi,0
+4022460,Software Developer,3393857,İnşaat Mühendisi,0
+4022460,Software Developer,4024990,İnşaat Mühendisi,0
+4022460,Software Developer,4017467,İnşaat Mühendisi,0
+4022460,Software Developer,4035615,İnşaat Mühendisi,0
+4022460,Software Developer,4027668,İnşaat Mühendisi,0
+4022460,Software Developer,4019817,İnşaat Mühendisi,0
+4022460,Software Developer,3598073,Mekanik Teknikeri,0
+4022460,Software Developer,3957464,Mekanik Teknisyeni,0
+4022460,Software Developer,2914657,Mekanik Teknisyeni,0
+4022460,Software Developer,3971572,Mekanik Teknisyeni,0
+4022460,Software Developer,3862922,Mekanik Tesisat Teknikeri,0
+4022460,Software Developer,4026608,Mekanik Teknisyeni,0
+4022460,Software Developer,2855461,Mekanik Teknisyeni (Beşiktaş),0
+4022460,Software Developer,3995588,Mekanik Teknisyeni,0
+4022460,Software Developer,4012052,Mekanik Teknisyeni,0
+4022460,Software Developer,2998063,Mekanik Bakım Teknisyeni,0
+4022460,Software Developer,4029193,Laboratuvar Teknikeri,0
+4022460,Software Developer,3945570,Laboratuvar Teknikeri/Teknisyeni,0
+4022460,Software Developer,3089924,Laboratuvar Teknikeri,0
+4022460,Software Developer,3027796,Laboratuvar Teknikeri,0
+4022460,Software Developer,4012684,Laboratuvar Teknisyeni,0
+4022460,Software Developer,4017911,Laboratuvar Teknikeri,0
+4022460,Software Developer,4023117,Laboratuvar Teknikeri,0
+4022460,Software Developer,4028427,Laboratuvar Teknikeri,0
+4022460,Software Developer,4017692,Laboratuvar Teknisyeni,0
+4022460,Software Developer,3976484,Laboratuvar Teknikeri,0
+4022460,Software Developer,3695230,Şirket Avukatı ,0
+4022460,Software Developer,4021279,Şirket Avukatı ,0
+4022460,Software Developer,4023545,Şirket Avukatı ,0
+4022460,Software Developer,4017683,Şirket Avukatı ,0
+4022460,Software Developer,4030907,Şirket Avukatı ,0
+4022460,Software Developer,4026279,Şirket Avukatı ,0
+4022460,Software Developer,4024296,Şirket Avukatı,0
+4022460,Software Developer,3765511,Şirket Avukatı ,0
+4022460,Software Developer,4020941,Şirket Avukatı ,0
+4022460,Software Developer,4029728,Company Lawyer,0
+4025763,Laboratuvar Teknikeri,4029193,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,3945570,Laboratuvar Teknikeri/Teknisyeni,1
+4025763,Laboratuvar Teknikeri,3089924,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,3027796,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,4012684,Laboratuvar Teknisyeni,1
+4025763,Laboratuvar Teknikeri,4017911,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,4023117,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,4028427,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,4017692,Laboratuvar Teknisyeni,1
+4025763,Laboratuvar Teknikeri,3976484,Laboratuvar Teknikeri,1
+4025763,Laboratuvar Teknikeri,3857446,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,4009193,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,4032564,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,3767982,Temizlik ve Servis Görevlisi,0
+4025763,Laboratuvar Teknikeri,2771283,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,4031235,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,3836930,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,3963381,Yönetici Asistanı,0
+4025763,Laboratuvar Teknikeri,4025014,Yönetici Asistanı,0
+4025763,Laboratuvar Teknikeri,3845963,Temizlik Görevlisi,0
+4025763,Laboratuvar Teknikeri,4034058,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4030213,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,3123924,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4018740,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,3393857,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4024990,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4017467,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4035615,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4027668,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,4019817,İnşaat Mühendisi,0
+4025763,Laboratuvar Teknikeri,3598073,Mekanik Teknikeri,0
+4025763,Laboratuvar Teknikeri,3957464,Mekanik Teknisyeni,0
+4025763,Laboratuvar Teknikeri,2914657,Mekanik Teknisyeni,0
+4025763,Laboratuvar Teknikeri,3971572,Mekanik Teknisyeni,0
+4025763,Laboratuvar Teknikeri,3862922,Mekanik Tesisat Teknikeri,0
+4025763,Laboratuvar Teknikeri,4026608,Mekanik Teknisyeni,0
+4025763,Laboratuvar Teknikeri,2855461,Mekanik Teknisyeni (Beşiktaş),0
+4025763,Laboratuvar Teknikeri,3995588,Mekanik Teknisyeni,0
+4025763,Laboratuvar Teknikeri,4012052,Mekanik Teknisyeni,0
+4025763,Laboratuvar Teknikeri,2998063,Mekanik Bakım Teknisyeni,0
+4025763,Laboratuvar Teknikeri,4021685,C Software Developer,0
+4025763,Laboratuvar Teknikeri,3176147,Software Developer,0
+4025763,Laboratuvar Teknikeri,3576275,Yazılım Geliştirme Mühendisi,0
+4025763,Laboratuvar Teknikeri,3975964,Yazılım Geliştirme Mühendisi,0
+4025763,Laboratuvar Teknikeri,4025436,Software Developer,0
+4025763,Laboratuvar Teknikeri,3714956,Yazılım Geliştirme Uzmanı,0
+4025763,Laboratuvar Teknikeri,4026876,Yazılım Geliştirme Uzmanı,0
+4025763,Laboratuvar Teknikeri,3930796,Yazılım Geliştirme Uzman Yardımcısı,0
+4025763,Laboratuvar Teknikeri,3772050,Yazılım Mühendisi,0
+4025763,Laboratuvar Teknikeri,3363165,Yazılım Geliştirme Uzmanı,0
+4025763,Laboratuvar Teknikeri,3695230,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4021279,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4023545,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4017683,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4030907,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4026279,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4024296,Şirket Avukatı,0
+4025763,Laboratuvar Teknikeri,3765511,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4020941,Şirket Avukatı ,0
+4025763,Laboratuvar Teknikeri,4029728,Company Lawyer,0
+3725681,Şirket Avukatı ,3695230,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4021279,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4023545,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4017683,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4030907,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4026279,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4024296,Şirket Avukatı,1
+3725681,Şirket Avukatı ,3765511,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4020941,Şirket Avukatı ,1
+3725681,Şirket Avukatı ,4029728,Company Lawyer,1
+3725681,Şirket Avukatı ,3857446,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,4009193,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,4032564,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,3767982,Temizlik ve Servis Görevlisi,0
+3725681,Şirket Avukatı ,2771283,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,4031235,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,3836930,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,3963381,Yönetici Asistanı,0
+3725681,Şirket Avukatı ,4025014,Yönetici Asistanı,0
+3725681,Şirket Avukatı ,3845963,Temizlik Görevlisi,0
+3725681,Şirket Avukatı ,4034058,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4030213,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,3123924,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4018740,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,3393857,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4024990,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4017467,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4035615,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4027668,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,4019817,İnşaat Mühendisi,0
+3725681,Şirket Avukatı ,3598073,Mekanik Teknikeri,0
+3725681,Şirket Avukatı ,3957464,Mekanik Teknisyeni,0
+3725681,Şirket Avukatı ,2914657,Mekanik Teknisyeni,0
+3725681,Şirket Avukatı ,3971572,Mekanik Teknisyeni,0
+3725681,Şirket Avukatı ,3862922,Mekanik Tesisat Teknikeri,0
+3725681,Şirket Avukatı ,4026608,Mekanik Teknisyeni,0
+3725681,Şirket Avukatı ,2855461,Mekanik Teknisyeni (Beşiktaş),0
+3725681,Şirket Avukatı ,3995588,Mekanik Teknisyeni,0
+3725681,Şirket Avukatı ,4012052,Mekanik Teknisyeni,0
+3725681,Şirket Avukatı ,2998063,Mekanik Bakım Teknisyeni,0
+3725681,Şirket Avukatı ,4021685,C Software Developer,0
+3725681,Şirket Avukatı ,3176147,Software Developer,0
+3725681,Şirket Avukatı ,3576275,Yazılım Geliştirme Mühendisi,0
+3725681,Şirket Avukatı ,3975964,Yazılım Geliştirme Mühendisi,0
+3725681,Şirket Avukatı ,4025436,Software Developer,0
+3725681,Şirket Avukatı ,3714956,Yazılım Geliştirme Uzmanı,0
+3725681,Şirket Avukatı ,4026876,Yazılım Geliştirme Uzmanı,0
+3725681,Şirket Avukatı ,3930796,Yazılım Geliştirme Uzman Yardımcısı,0
+3725681,Şirket Avukatı ,3772050,Yazılım Mühendisi,0
+3725681,Şirket Avukatı ,3363165,Yazılım Geliştirme Uzmanı,0
+3725681,Şirket Avukatı ,4029193,Laboratuvar Teknikeri,0
+3725681,Şirket Avukatı ,3945570,Laboratuvar Teknikeri/Teknisyeni,0
+3725681,Şirket Avukatı ,3089924,Laboratuvar Teknikeri,0
+3725681,Şirket Avukatı ,3027796,Laboratuvar Teknikeri,0
+3725681,Şirket Avukatı ,4012684,Laboratuvar Teknisyeni,0
+3725681,Şirket Avukatı ,4017911,Laboratuvar Teknikeri,0
+3725681,Şirket Avukatı ,4023117,Laboratuvar Teknikeri,0
+3725681,Şirket Avukatı ,4028427,Laboratuvar Teknikeri,0
+3725681,Şirket Avukatı ,4017692,Laboratuvar Teknisyeni,0
+3725681,Şirket Avukatı ,3976484,Laboratuvar Teknikeri,0
