@@ -53,6 +53,8 @@ To recommend top-N similar jobs for a given job ID.
 
 > python recommend_job.py 4031546 top_n 10
 
+## Additional Information
+- The complete contents (around 400 MB) of the `results` folder can be accessed through [this link](https://drive.google.com/drive/folders/1sMs2LKjlKbzhQJwgsMxxYo3-e0dvupFX?usp=sharing), simply replacing the `results` folder is enough.
 
 ## License
 © 2025 [Nural Ozel](https://github.com/tfb-sv).
