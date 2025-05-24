@@ -24,34 +24,30 @@ Install required libraries:
 
 ## Usage
 
-### Graph Construction and Analysis:
-To build a job-job graph from user interactions and analyze its structure.
+### Graph Construction and Analysis
+To build a job-job graph from user interactions and analyze its structure:
 
 > python build_graph.py
 
-### Graph-Based Embeddings:
-To generate job embeddings using Graph Convolutional Networks (GCN) based on the graph from Part 1.
+### Graph-Based Embeddings
+To generate job embeddings using Graph Convolutional Networks (GCN) based on the graph:
 
 > python generate_graph_embeds.py
 
-### Text-Based Embeddings:
-To generate job embeddings using Sentence-BERT (SBERT) based on job titles and descriptions.
+### Text-Based Embeddings
+To generate job embeddings using Sentence-BERT (SBERT) based on job titles and descriptions:
 
 > python generate_nlp_embeds.py
 
-### Vector Database:
-To combine graph and text embeddings; to build a FAISS vector database for fast similarity search.
+### Vector Database
+To combine graph and text embeddings; to build a FAISS vector database for fast similarity search:
 
 > python build_faiss_db.py
 
-### Job Recommendation:
-To recommend top-N similar jobs for a given job ID.
+### Job Recommendation
+To recommend top-N similar jobs for a given job ID:
 
 > python recommend_job.py <job_id> top_n <recommendation_count>
-
-**Example:**
-
-> python recommend_job.py 4031546 top_n 10
 
 ## Additional Information
 - The complete contents (around 400 MB) of the `results` folder can be accessed through [this link](https://drive.google.com/drive/folders/1sMs2LKjlKbzhQJwgsMxxYo3-e0dvupFX?usp=sharing), simply replacing the `results` folder is enough.
