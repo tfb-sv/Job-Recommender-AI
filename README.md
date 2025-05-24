@@ -1,7 +1,7 @@
 [![License: MIT][mit-shield]](./LICENSE)
 
 # Job Recommender AI
-This repository contains a hybrid job recommendation engine that uses both user interaction and job posting data to generate relevant job suggestions.
+This repository contains a hybrid job recommendation system that uses both user interaction and job posting data to generate relevant job suggestions.
 
 ## Overview
 - Build a job-job graph from user interactions
